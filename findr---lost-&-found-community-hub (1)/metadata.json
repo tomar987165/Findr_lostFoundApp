@@ -1,0 +1,6 @@
+{
+  "name": "Findr - Lost & Found Community Hub",
+  "description": "Report lost and found items, receive proximity match alerts, verify ownership with secure evidence challenges, and coordinate safe returns.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
